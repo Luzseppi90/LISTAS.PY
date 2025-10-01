@@ -35,3 +35,4 @@ lista.insert(1,"kiwi")
 print(lista)  # Salida: ['manzana', 'kiwi', 'platano', 'cereza', 'naranja'] - agrega un elemento en la posicion 1
 lista.remove("cereza")      
 print(lista)  # Salida: ['manzana', 'kiwi', 'platano', 'naranja'] - elimina el primer elemento con el valor especificado
+
